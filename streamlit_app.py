@@ -15,7 +15,7 @@ from sklearn.metrics import classification_report
 def app():
     
     st.title('Symbol Classification')
-    st.subheader('by John Marc M. Abogador, BSCS 3A AI')
+    st.subheader('by John Marc M. Abogador, BSCS 3A AI, WVSU College of ICT')
     
     st.write('Dataset description:')
 
